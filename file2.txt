@@ -1,1 +1,5 @@
 file 2 added 
+
+file 2 is modified
+
+file 2 modified 2nd time by new branch
